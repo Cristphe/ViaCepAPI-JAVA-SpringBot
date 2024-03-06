@@ -1,2 +1,0 @@
-# padroes-spring
- 
